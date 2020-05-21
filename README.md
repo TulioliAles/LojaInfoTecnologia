@@ -3,4 +3,4 @@
 
 ## Tela Principal
 ### Chamada para o serviço de desenvolvimento de sistemas com Angular.
-#[](https://github.com/TulioliAles/LojaInfoTecnologia/blob/master/lojaInfo.png)
+![](https://github.com/TulioliAles/LojaInfoTecnologia/blob/master/lojaInfo.png)
