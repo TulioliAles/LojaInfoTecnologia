@@ -6,7 +6,7 @@
 ![](https://github.com/TulioliAles/LojaInfoTecnologia/blob/master/principal.png)
 
 ## Tela Produtos
-### Vitrine com produtos àvenda
+### Vitrine com produtos à venda
 ![](https://github.com/TulioliAles/LojaInfoTecnologia/blob/master/prod_1.png)
 ![](https://github.com/TulioliAles/LojaInfoTecnologia/blob/master/prod_2.png)
 
