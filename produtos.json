@@ -71,14 +71,6 @@
           "promocao": false,
           "valorPromo": 0,
           "imagem": "gopro.jpg"
-      },
-      {
-          "id": 10,
-          "nome": "MacBook Pro",
-          "valor": 30000.00,
-          "promocao": true,
-          "valorPromo": 15999.90,
-          "imagem": "macbook.jpg"
       }
   ]
 }
