@@ -5,6 +5,11 @@
 ### Chamada para o serviço de desenvolvimento de sistemas com Angular.
 ![](https://github.com/TulioliAles/LojaInfoTecnologia/blob/master/principal.png)
 
+## Tela Produtos
+### Vitrine com produtos àvenda
+![](https://github.com/TulioliAles/LojaInfoTecnologia/blob/master/prod_1.png)
+![](https://github.com/TulioliAles/LojaInfoTecnologia/blob/master/prod_2.png)
+
 ## Tela Sobre
 ### Chamada para informações sobre a empresa, time, etc.
 ![](https://github.com/TulioliAles/LojaInfoTecnologia/blob/master/sobre_pt1.png)
